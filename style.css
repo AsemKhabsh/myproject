@@ -1,4 +1,27 @@
-h1 {color: aqua;
-    background-color: black;
+body {
+    background-color: rgb(213, 38, 38);
+    color: aqua;
+}rgb(236, 33, 33)
 
+p {
+    color: aqua;
+    background-color: black;
+}
+
+a {
+    color: aqua;
+    background-color: black;
+}
+
+h2 {
+    color: aqua;
+    background-color: black;
+}
+
+h3 {
+    color: aqua;
+    background-color: black;
+}
+
+h4 {
 }
