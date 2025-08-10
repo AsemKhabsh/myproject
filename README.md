@@ -1,3 +1,3 @@
 # myproject
 this is my repo
-<h1 style-color: yellow >Hello , Welcome to my website</h1>
+<h1>Hello , Welcome to my website</h1>
